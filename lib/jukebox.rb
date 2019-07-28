@@ -9,4 +9,3 @@ user_name = gets.chomp
 
 puts say_hello(user_name)
 =end
-
